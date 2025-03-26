@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://futbolka.ua/sitemap.xml
+
+# Дозволити індексацію всім пошуковим роботам
+User-agent: Googlebot
+Allow: /
