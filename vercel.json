@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/contact.html",
+        "destination": "/",
+        "permanent": true
+      }
+    ]
+  }
+  
